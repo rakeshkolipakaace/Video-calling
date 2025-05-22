@@ -10,8 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@zegocloud/zego-uikit-prebuilt": "^2.14.3-beta",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
+    "react-router-dom": "^7.6.0",
     "video-calling": "file:"
   },
   "devDependencies": {
